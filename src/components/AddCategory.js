@@ -35,4 +35,5 @@ AddCategory.propTypes = {
     setCategories: PropsTypes.func.isRequired
 }
 
+
 export default AddCategory;
